@@ -4,7 +4,7 @@
 
 <h1 align="center"> [INSTALLING]</h1>
 
-<h2 align="center">  RANDOM TOOL </h2>
+<h2 align="center">  BYPASS TOOL </h2>
 
 
 ## <b>installation</b>
@@ -19,10 +19,10 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf Random`
-- `git clone https://github.com/Shakibur-Cyber-King/RANDOM-2`
-- `cd RANDOM-2`
-- `python SHAKIBUR.py`
+- `rm -rf bxi-Bypass`
+- `git clone https://github.com/Shakibur-Cyber-King/bxi-Bypass`
+- `cd bxi-Bypass`
+- `python bxi`
      
 
  ```This Tools is FREE ```</br>
